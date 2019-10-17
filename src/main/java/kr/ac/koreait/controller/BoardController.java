@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import kr.ac.koreait.domain.Board;
 import kr.ac.koreait.service.BoardService;
-
+/* change */
 @Controller
 public class BoardController {
 	@Autowired
